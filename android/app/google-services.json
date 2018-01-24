@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "220067231824",
+    "firebase_url": "https://reactnotification.firebaseio.com",
+    "project_id": "reactnotification",
+    "storage_bucket": "reactnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220067231824:android:1591dd8099c82a9a",
+        "android_client_info": {
+          "package_name": "com.animproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220067231824-194lb4lvbraa3c0nfqb5f77357ldjfao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZRFFjPc-d77C8zjj4ka59J1sGU79Egnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
